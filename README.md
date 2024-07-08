@@ -7,17 +7,14 @@
 I am a passionate Software Developer with expertise in the conversational AI and consulting space. I have a deep interest in Chatbots, AI and Web development.
 
 
-- ## Skills and Interests
+- ## Tech stack
 
   - **Languages**: C, Java, Python, JavaScript (beginner)
   - **Frameworks**: Microsoft Bot Framework, Express (learning)
   - **Full-Stack Development**: MERN stack (React, Express, Node.js, MongoDB)
   - **Mobile Development**: Building Android apps in Android Studio (Java)
+    
   - **Current Learning**: JavaScript projects, Express framework, React, Gen AI
-  - **Goals**: 
-    - Become a top-quality software engineer
-    - Improve technical and soft skills like public speaking
-    - Engage in tech conferences, blogging, and creating content on Twitter and podcasts
 
   
 <img align="left" alt="Samruddhi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samrudhi0909&show_icons=true&hide_border=true" />
@@ -25,11 +22,10 @@ I am a passionate Software Developer with expertise in the conversational AI and
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrudhi0909&layout=compact)](https://github.com/samrudhi0909/github-readme-stats)
 
-
-
+</br>
 
 Feel free to reach out to me on:
 
 - ![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png) [Twitter](https://twitter.com/Samruddhi0909)
 - ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/samruddhi-sangale-21680a1b1/)
-- ![Hashnode](https://img.icons8.com/color/48/000000/hasnode--v1.png) [Hashnode](https://hashnode.com/@samruddhi09)
+- ![Hashnode](https://play-lh.googleusercontent.com/NhWlAT4TbjIjirMZfl77W2B8Y1P0gpSNTui6aQYUXJNMhbe8OrUhnfjtccRF3eNFkRo) [Hashnode](https://samrudhi0909.hashnode.dev)
