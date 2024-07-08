@@ -11,7 +11,7 @@ I am a passionate Software Developer with expertise in the conversational AI and
   - **Languages**: C, Java, Python, JavaScript
   - **Frameworks**: Microsoft Bot Framework, Express
   - **Others**: MS Azure, Andriod Studios(Java), NLP
-  - **Current Experimenting with**: JavaScript, Express, React, OpenAI
+  - **Currently Experimenting with**: JavaScript, Express, React, OpenAI
 
 ---
 
