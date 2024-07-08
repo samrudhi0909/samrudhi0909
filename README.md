@@ -20,7 +20,9 @@ I am a passionate Software Developer with expertise in the conversational AI and
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrudhi0909&layout=compact)](https://github.com/samrudhi0909/github-readme-stats)
 
----
+
+<!-- Invisible line -->
+
 
 ---
 
@@ -29,4 +31,4 @@ I am a passionate Software Developer with expertise in the conversational AI and
 
   - [Twitter](https://twitter.com/Samruddhi0909)
   - [LinkedIn](https://www.linkedin.com/in/samruddhi-sangale-21680a1b1/)
-  - [Hashnode](https://samrudhi0909.hashnode.dev)
+  - **I write blogs sometimes** : [Hashnode](https://samrudhi0909.hashnode.dev)
