@@ -9,11 +9,9 @@ I am a passionate Software Developer with expertise in the conversational AI and
 
 - ## Tech stack
 
-  - **Languages**: C, Java, Python, JavaScript (beginner)
-  - **Frameworks**: Microsoft Bot Framework, Express (learning)
-  - **Full-Stack Development**: MERN stack (React, Express, Node.js, MongoDB)
+  - **Languages**: C, Java, Python, JavaScript
+  - **Frameworks**: Microsoft Bot Framework, Express
   - **Mobile Development**: Building Android apps in Android Studio (Java)
-    
   - **Current Learning**: JavaScript projects, Express framework, React, Gen AI
 
   
@@ -22,10 +20,9 @@ I am a passionate Software Developer with expertise in the conversational AI and
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrudhi0909&layout=compact)](https://github.com/samrudhi0909/github-readme-stats)
 
-</br>
 
-Feel free to reach out to me on:
+- Feel free to reach out to me on:
 
 - ![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png) [Twitter](https://twitter.com/Samruddhi0909)
 - ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/samruddhi-sangale-21680a1b1/)
-- ![Hashnode](https://play-lh.googleusercontent.com/NhWlAT4TbjIjirMZfl77W2B8Y1P0gpSNTui6aQYUXJNMhbe8OrUhnfjtccRF3eNFkRo) [Hashnode](https://samrudhi0909.hashnode.dev)
+- ![Hashnode](https://samrudhi0909.hashnode.dev)
