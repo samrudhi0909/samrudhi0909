@@ -3,7 +3,7 @@
   Hey👋 I'm Samruddhi 
 </p>
   
-I am a passionate Software Developer with expertise in the conversational AI and consulting space. I have a deep interest in Chatbots, AI and Web development.
+I am a passionate Software Developer with expertise in the conversational AI and consulting space. I have deep interest in Chatbots, AI and Web development.
 
 
 - ## Tech stack
