@@ -29,7 +29,7 @@ I am a passionate Software Developer with expertise in the conversational AI and
 
 - Feel free to reach out to me on:
 
-  - ![Twitter](https://github.com/samrudhi0909/samrudhi0909/blob/f1669cdc41e1c8e1513a3fb2e5b017acd61254de/x.svg)[Twitter](https://twitter.com/Samruddhi0909)
+  - [Twitter](https://twitter.com/Samruddhi0909)
   - [LinkedIn](https://www.linkedin.com/in/samruddhi-sangale-21680a1b1/)
     
 - **I sometimes write tech blogs** : [Hashnode](https://samrudhi0909.hashnode.dev)
