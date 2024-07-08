@@ -1,11 +1,11 @@
 
 ### <p align="center">
-  <img src="https://giphy.com/gifs/Sophiescloset-hello-sophiescloset-PjU8yYjG5iKgRAd4Tx" alt="Hey Everyone, This is Samruddhi"/>
+  <img src="https://giphy.com/gifs/Sophiescloset-hello-sophiescloset-PjU8yYjG5iKgRAd4Tx"/>
+  Hey Eeveryone! I'm Samruddhi
 </p>
   
 I am a passionate Software Developer with expertise in the conversational AI and consulting space. I have a deep interest in Chatbots, AI and Web development.
 
-- 🔭 I’m currently learning JavaScript to eventually deep dive into full stack web developement.
 
 - ## Skills and Interests
 
@@ -24,6 +24,8 @@ I am a passionate Software Developer with expertise in the conversational AI and
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrudhi0909&layout=compact)](https://github.com/samrudhi0909/github-readme-stats)
+
+
 
 
 Feel free to reach out to me on:
