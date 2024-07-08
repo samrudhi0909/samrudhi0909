@@ -1,6 +1,6 @@
 
 ### <p align="center">
-  Hey👋 I'm Samruddhi 
+  Hello, World!👋 I'm Samruddhi 
 </p>
   
 I am a passionate Software Developer with expertise in the conversational AI and consulting space. I have deep interest in Chatbots, AI and Web development.
@@ -32,4 +32,4 @@ I am a passionate Software Developer with expertise in the conversational AI and
   - [Twitter](https://twitter.com/Samruddhi0909)
   - [LinkedIn](https://www.linkedin.com/in/samruddhi-sangale-21680a1b1/)
     
-- **Tech blogs** : [Hashnode](https://samrudhi0909.hashnode.dev)
+- **I sometimes write tech blogs** : [Hashnode](https://samrudhi0909.hashnode.dev)
