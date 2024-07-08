@@ -11,7 +11,7 @@ I am a passionate Software Developer with expertise in the conversational AI and
   - **Languages**: C, Java, Python, JavaScript
   - **Frameworks**: Microsoft Bot Framework, Express
   - **Mobile Development**: Building Android apps in Android Studio (Java)
-  - **Current Learning**: JavaScript projects, Express framework, React, Gen AI
+  - **Current Experimenting with**: JavaScript, Express framework, React, Gen AI
 
 ---
 
@@ -22,6 +22,7 @@ I am a passionate Software Developer with expertise in the conversational AI and
 
 ---
 
+---
 
 
 - Feel free to reach out to me on:
