@@ -13,16 +13,6 @@ I am a passionate Software Developer with expertise in the conversational AI and
   - **Others**: MS Azure, Andriod Studios(Java), NLP
   - **Currently Experimenting with**: JavaScript, Express, React, OpenAI
 
----
-
-
-
-
----
-
----
-
-
 
 - Feel free to reach out to me on:
 
