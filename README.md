@@ -16,9 +16,6 @@ I am a passionate Software Developer with expertise in the conversational AI and
 ---
 
 
-<img align="left" alt="Samruddhi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samrudhi0909&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrudhi0909&layout=compact)](https://github.com/samrudhi0909/github-readme-stats)
 
 
 ---
