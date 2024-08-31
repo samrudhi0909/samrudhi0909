@@ -20,3 +20,6 @@ I am a passionate Software Developer with expertise in the conversational AI and
   - [LinkedIn](https://www.linkedin.com/in/samruddhi-sangale-21680a1b1/)
     
 - **I sometimes write tech blogs** : [Hashnode](https://samrudhi0909.hashnode.dev)
+
+- On a side note, I love talking about hindi movies, hindi music and dancing.
+- I look forward to connecting with you!
