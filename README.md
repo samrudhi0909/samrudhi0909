@@ -21,5 +21,5 @@ I am a passionate Software Developer with expertise in the conversational AI and
     
 - **I sometimes write tech blogs** : [Hashnode](https://samrudhi0909.hashnode.dev)
 
-- On a side note, I love talking about hindi movies, hindi music and dancing.
+- In my free time, I love to sing, dance and watch podcasts!
 I look forward to connecting with you!
