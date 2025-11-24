@@ -10,8 +10,8 @@
 ---
 
 ### 🔭 What I'm Working On
-- [cite_start]🎓 **Masters Student:** Focusing on Systems and AI at **University of California, Irvine**[cite: 49, 50].
-- [cite_start]🤖 **Applied AI Intern @ Edged:** Engineering AI Pipelines to query complex operational data (Graph and Time series)[cite: 60, 61].
+- 🎓 **Masters Student:** Focusing on Systems and AI at **University of California, Irvine**.
+- 🤖 **Applied AI Intern @ Edged:** Engineering AI Pipelines to query complex operational data (Graph and Time series).
 
 ### 🛠️ Technical Stack
 
