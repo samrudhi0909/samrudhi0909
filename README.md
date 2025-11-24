@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World, I'm Samruddhi! 👋</h1>
+<h1 align="center">Hello, World! I'm Samruddhi! 👋</h1>
 <p align="center">
   <b>Master's in Computer Science @ UC Irvine</b> | <b>Applied AI Engineer</b> | <b>Systems Enthusiast</b>
 </p>
